@@ -11,7 +11,7 @@ public class dividedBy7 {
 		
 			if(i%7==0) System.out.println(i);
 		}
-		System.out.println("Program finish...");
+		System.out.println("Program finish....");
 	}
 
 }
