@@ -15,6 +15,8 @@ public class factorOfUserInput {
 			
 			if(no%i==0) System.out.println(i);
 		}
+		System.out.println("Program finish....Commit by commands");
+
 	}
 
 }
